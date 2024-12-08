@@ -22,6 +22,9 @@
         <mxCell id="GVcUrMLa3Asdd-cFUx20-6" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Is a suitable block available?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1260" width="420" height="320" as="geometry" />
         </mxCell>
+        <mxCell id="GVcUrMLa3Asdd-cFUx20-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;strong&gt;Allocate job to the smallest block&lt;/strong&gt;.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1360" width="380" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
