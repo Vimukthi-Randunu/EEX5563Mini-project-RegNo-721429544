@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="w2s6EJMtueL3KT_GQZpF">
-    <mxGraphModel dx="7880" dy="2111" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="7874" math="0" shadow="0">
+    <mxGraphModel dx="6060" dy="1137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="7874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,20 @@
         <mxCell id="GVcUrMLa3Asdd-cFUx20-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Search for the smallest suitable block.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1050" width="380" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="GVcUrMLa3Asdd-cFUx20-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="GVcUrMLa3Asdd-cFUx20-6" target="GVcUrMLa3Asdd-cFUx20-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVcUrMLa3Asdd-cFUx20-6" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Is a suitable block available?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1260" width="420" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="GVcUrMLa3Asdd-cFUx20-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;strong&gt;Allocate job to the smallest block&lt;/strong&gt;.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1370" width="380" height="150" as="geometry" />
+        <mxCell id="GVcUrMLa3Asdd-cFUx20-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="GVcUrMLa3Asdd-cFUx20-7" target="GVcUrMLa3Asdd-cFUx20-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVcUrMLa3Asdd-cFUx20-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Allocate job to the smallest block.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1345" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GVcUrMLa3Asdd-cFUx20-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Update memory block size&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1730" width="380" height="150" as="geometry" />
+          <mxGeometry x="1150" y="1741" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GVcUrMLa3Asdd-cFUx20-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;strong&gt;Mark job as unallocatable&lt;/strong&gt;.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="1370" width="380" height="150" as="geometry" />
