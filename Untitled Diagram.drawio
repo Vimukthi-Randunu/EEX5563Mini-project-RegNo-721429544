@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="w2s6EJMtueL3KT_GQZpF">
-    <mxGraphModel dx="789" dy="422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="7874" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="7874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,6 +68,12 @@
               <mxPoint x="1763" y="681" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TUUPp94Wca-i6aW7mwHr-3" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2212" width="67" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="TUUPp94Wca-i6aW7mwHr-4" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;No&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="2469" width="56" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
