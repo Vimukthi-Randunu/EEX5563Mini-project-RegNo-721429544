@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="w2s6EJMtueL3KT_GQZpF">
-    <mxGraphModel dx="6237" dy="1232" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="7874" math="0" shadow="0">
+    <mxGraphModel dx="3450" dy="1848" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="7874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,10 +35,10 @@
           <mxGeometry x="1150" y="1741" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GVcUrMLa3Asdd-cFUx20-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Mark job as unallocatable.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-101" y="1345" width="380" height="150" as="geometry" />
+          <mxGeometry x="542" y="1750" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GVcUrMLa3Asdd-cFUx20-10" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Are there more jobs in the queue?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="526" y="1981" width="420" height="320" as="geometry" />
+          <mxGeometry x="530" y="2101" width="420" height="320" as="geometry" />
         </mxCell>
         <mxCell id="GVcUrMLa3Asdd-cFUx20-12" value="&lt;div&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Proceed to display results&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="542" y="2502" width="380" height="150" as="geometry" />
@@ -50,12 +50,12 @@
           <mxGeometry x="997" y="1370" width="67" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GVcUrMLa3Asdd-cFUx20-19" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;No&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1373" width="56" height="48" as="geometry" />
+          <mxGeometry x="740" y="1641" width="56" height="48" as="geometry" />
         </mxCell>
         <mxCell id="TUUPp94Wca-i6aW7mwHr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.019;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GVcUrMLa3Asdd-cFUx20-10" target="GVcUrMLa3Asdd-cFUx20-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1763" y="2141" />
+              <mxPoint x="1763" y="2261" />
               <mxPoint x="1763" y="681" />
             </Array>
           </mxGeometry>
